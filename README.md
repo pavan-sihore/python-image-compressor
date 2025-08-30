@@ -17,7 +17,7 @@ Follow these steps to set up the project on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/my_python_project.git
+https://github.com/pavan-sihore/python-image-compressor.git
 cd my_python_project
 ```
 
